@@ -1,0 +1,6 @@
+{
+  "name": "Student Study Group Platform",
+  "description": "Platform for students to discover, create, join study groups, schedule meetings with locations/links, and manage profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
